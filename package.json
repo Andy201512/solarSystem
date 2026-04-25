@@ -1,0 +1,31 @@
+{
+  "name": "solarsystem",
+  "version": "1.0.0",
+  "description": " a solar sytem model built with threejs",
+  "keywords": [
+    "solar",
+    "threejs"
+  ],
+  "homepage": "https://github.com/Andy201512/solarSystem#readme",
+  "bugs": {
+    "url": "https://github.com/Andy201512/solarSystem/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Andy201512/solarSystem.git"
+  },
+  "license": "ISC",
+  "author": "jamin",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "vite"
+  },
+  "dependencies": {
+    "three": "^0.184.0"
+  },
+  "devDependencies": {
+    "vite": "^8.0.8"
+  }
+}
